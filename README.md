@@ -1,1 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbithawk256&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+Hi. I'm rabbithawk256. I make apps. :rabbit2:
+
+He/They
+
+Featuring:
+- How do I write "I made a bot that saves fanfiction" on a portfolio
+- ==>
+- Coding at 11pm
+
